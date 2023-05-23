@@ -1,0 +1,7 @@
+Interacciones del bot:
+> Hola - Saludo 
+> Traducir [texto] - pon una frase y el bot la traduce desde cualquier idioma a español o de español a ingles
+> [subir una imagen] - busca si hay texto en la imagen y lo muestra si esta en otro idioma lo pasa a español
+> Corrige [texto] - pon una frase y el bot busca errores en texto mal escrito y lo corrije
+> Parafrasea [texto] - pon una frase y el bot parafrasea el texto
+> Mejora [texto] - pon una frase y el bot intentara mejorar la redacción 
